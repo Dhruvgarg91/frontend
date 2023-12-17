@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import logo from "../../shared/img/logo.png";
 import "../../shared/style.css";
 import "../services/logic.jsx";
